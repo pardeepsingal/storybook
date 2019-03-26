@@ -1,0 +1,9 @@
+{
+  "name": "04-react-display-the-jsx-of-a-react-storybook-story-with-the-jsx-addon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 6006 -c .storybook"
+  }
+}

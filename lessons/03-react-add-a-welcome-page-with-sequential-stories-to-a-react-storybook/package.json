@@ -1,0 +1,7 @@
+{
+  "name": "03-react-add-a-welcome-page-with-sequential-stories-to-a-react-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": { "storybook": "start-storybook -p 6006 -c .storybook" }
+}

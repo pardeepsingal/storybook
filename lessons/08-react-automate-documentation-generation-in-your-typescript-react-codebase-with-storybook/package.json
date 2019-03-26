@@ -1,0 +1,9 @@
+{
+  "name": "08-react-automate-documentation-generation-in-your-typescript-react-codebase-with-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 6006 -c .storybook"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "01-react-set-up-storybook-for-react-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 6006 -c .storybook"
+  }
+}
